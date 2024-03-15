@@ -1,0 +1,5 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+.header {display: flex; position: relative; margin-top: 100px;}
+.top {margin: 40px 42px;}
+.header .logo a {display: flex; text-indent: -9999px; background: url('Newriver/res/img/h1-logo-w-m.png') no-repeat center / cover;}
